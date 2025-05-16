@@ -1,16 +1,21 @@
-## Hi there 👋
+# PathGuard™ - Premium Outdoor Security
 
-<!--
-**PathGuard/PathGuard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official PathGuard landing page repository.
 
-Here are some ideas to get you started:
+## About PathGuard
+PathGuard™ is a cutting-edge smart security solution designed to protect driveways, gardens, work vans, and vehicles using invisible infrared barrier technology, real-time smartphone notifications, and optional professional security guard dispatch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Live Site
+Once published via GitHub Pages, your live site will be accessible at:
+
+```
+https://yourusername.github.io/pathguard-website/
+```
+
+## Contact
+- **Founder**: Jacob Smith
+- **Email**: jacob.smith888@icloud.com
+- **Phone**: 07961 566644
+
+## License
+© 2025 PathGuard™ | All rights reserved.
